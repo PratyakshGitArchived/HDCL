@@ -1,2 +1,2 @@
 # HDCL
-Classification of Handwritten Digits Images
+Recognition of Handwritten Digits Images
